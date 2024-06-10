@@ -1,7 +1,3 @@
-Creating a README file for your project is a great idea to document its purpose, usage, and any other relevant information. Here's a template you can use:
-
----
-
 # Salary Prediction of Data Professions
 
 ## Overview
