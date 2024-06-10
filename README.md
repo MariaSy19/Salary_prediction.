@@ -1,7 +1,3 @@
-Sure, here's a template for your README file:
-
----
-
 # Salary Prediction for Data Professionals
 
 ## Overview
