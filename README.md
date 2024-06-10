@@ -1,1 +1,1 @@
-# Salary_prediction-
+Predictive Model for Salaries of Data Professionals
